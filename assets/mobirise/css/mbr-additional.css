@@ -8,13 +8,14 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #cccccc;
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #menu-0 .mbr-navbar__items a {
   font-family: 'Raleway', sans-serif;
+  font-size: 13px;
 }
 #header1-1 H1 {
   font-family: 'Raleway', sans-serif;
@@ -36,6 +37,10 @@
 }
 
 
+
+
+
+
 #content5-7 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -52,21 +57,74 @@
 #content5-7 .mbr-article P {
   font-family: 'Raleway', sans-serif;
   text-align: left;
+  font-size: 16px;
 }
 #content5-7 .mbr-article UL {
   text-align: center;
+}
+#buttons1-9 .btn {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
 }
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #cccccc;
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #menu-0 .mbr-navbar__items a {
   font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+#header3-17 H3 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+#gallery2-11 SMALL {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+#header3-19 H3 {
+  font-family: 'Raleway', sans-serif;
+  color: #252525;
+  text-align: center;
+}
+#contacts1-8 UL {
+  color: #ffffff;
+}
+#contacts1-8 P {
+  color: #ffffff;
+}
+
+
+
+#ext_menu-16 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #cccccc;
+}
+#ext_menu-16 .mbr-navbar__section {
+  background: #cccccc;
+}
+#ext_menu-16 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-16 .mbr-navbar__items a {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-15 H3 {
+  font-family: 'Raleway', sans-serif;
+  color: #252525;
+  text-align: center;
+}
+#slider2-10 H1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+  text-align: center;
 }
 #contacts1-8 UL {
   color: #ffffff;
