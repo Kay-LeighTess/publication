@@ -136,7 +136,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"></a>CONTACT</p><p><span style=\"line-height: 1.5em;\"><br></span></p><p><span style=\"line-height: 1.5em;\">Email: kayleightessenaere@gmail.com</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\" style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\"></a><br></p><br><p><br><br></p>"
+          "text": "<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"></a>CONTACT</p><p><span style=\"line-height: 1.5em;\"><br></span></p><p><span style=\"line-height: 1.5em;\">Email: kayleightessenaere@gmail.com</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a></p><p><br></p><p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\" style=\"line-height: 1.5em; background-color: rgb(68, 68, 68);\"><br></a><br></p><br><p><br><br></p>"
         }
       ]
     },
@@ -200,15 +200,15 @@
         },
         {
           "_name": "buttons1",
-          "_anchor": "buttons1-9",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#gallery2-11\" data-toolbar=\"-mbrBtnMove\">Sculpture</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Drawings and Paintings</a>",
           "_styles": {
             ".btn": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "15px"
             }
-          }
+          },
+          "_anchor": "buttons1-9",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#gallery2-11\" data-toolbar=\"-mbrBtnMove\">Sculpture</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Drawings and Paintings</a>"
         },
         {
           "_styles": {
@@ -315,23 +315,30 @@
         },
         {
           "_name": "header3",
-          "_anchor": "header3-17",
-          "title": "Sculpture<br><br>",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header3-17",
+          "title": "Sculpture<br><br>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_inherit": "gallery1",
           "_name": "gallery2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "13px"
+            }
+          },
           "_params": {
             "images": [
               {
@@ -460,23 +467,10 @@
             "noGutter": false
           },
           "_anchor": "gallery2-11",
-          "articleLayout": true,
-          "_styles": {
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "13px"
-            }
-          }
+          "articleLayout": true
         },
         {
           "_name": "header3",
-          "_anchor": "header3-19",
-          "title": "<br>Body draped with fabric.<br>",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "font-family": "'Raleway', sans-serif",
@@ -484,7 +478,13 @@
               "color": "#252525",
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header3-19",
+          "title": "<br>Body draped with fabric.<br>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_name": "gallery1",
@@ -585,7 +585,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\"></a><br><br>",
+          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
@@ -641,12 +641,6 @@
         },
         {
           "_name": "header3",
-          "_anchor": "header3-15",
-          "title": "Drawings and Paintings<br><br>",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "",
           "_styles": {
             "H3": {
               "font-family": "'Raleway', sans-serif",
@@ -654,12 +648,26 @@
               "color": "#252525",
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header3-15",
+          "title": "Drawings and Paintings<br><br>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_name": "slider2",
+          "_styles": {
+            "H1": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "slides": [
@@ -866,15 +874,7 @@
             "showBullets": true
           },
           "_anchor": "slider2-10",
-          "articleLayout": true,
-          "_styles": {
-            "H1": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "32px",
-              "text-align": "center"
-            }
-          }
+          "articleLayout": true
         },
         {
           "_inherit": "gallery1",
@@ -1132,7 +1132,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\"></a><br><br>",
+          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
