@@ -8,7 +8,7 @@
       "name": "default",
       "title": "Mobirise"
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/12828317-10207193499768858-7923903323157363411-o-2-1080x1350-8.jpg",
     "publishType": "local",
     "publishPath": "file:///Users/apple/Desktop/webfolder",
     "path": "file:///Users/apple/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-04-08_230110",
@@ -173,8 +173,8 @@
           "_anchor": "content5-7",
           "_params": {
             "showCaption": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showTitle": false,
             "showText": true,
             "showButton": false,
@@ -195,7 +195,7 @@
           },
           "title": "Artwork",
           "meta": "",
-          "text": "<p>I'm student at LUCA School of Arts in Ghent, Belgium. I study sculpture and I'm very interested in figurative artwork. My works are mostly made with clay, focusing on the bust and body. Afterwards with plaster, ceramics, metal, cast stone, ...</p><p>My drawings and paintings are more like studies and sketches of what I see and feel.</p><p><br></p><p>The balance of the human head. What is happening on the inside and how do you interpret this in your art? How many emotions can you show? How you portray a person's head is what keeps me busy.&nbsp;<br></p><p>You just show the outside, the inside or is it your personal emotions as artist that are automatically shown because you made it with your own hands.</p><p><br></p><p>A sculpture or just a chunk of clay. What do you think?<br></p>",
+          "text": "<p>I'm student at LUCA School of Arts in Ghent, Belgium. I study sculpture and I'm very interested in figurative artwork. My works are mostly made with clay, focusing on the bust and body. Afterwards with plaster, ceramics, metal, cast stone, ...</p><p>My drawings and paintings are more like studies and sketches of what I see and feel.</p><p><br></p><p>The balance of the human head. What is happening on the inside and how do you interpret this in your art? How many emotions can you show? How you portray a person's head is what keeps me busy.&nbsp;</p><p>You just show the outside, the inside or is it your personal emotions as artist that are automatically shown because you made it with your own hands.</p><p><br></p><p>A sculpture or just a chunk of clay. What do you think?</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Artwork</a>"
         },
         {
@@ -611,6 +611,10 @@
             ".mbr-navbar__items a": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -635,7 +639,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page2.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kay-Leigh Tessenaere</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Sculpture</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Drawings and Paintings</a></li>"
         },
@@ -1014,13 +1018,14 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "slides": [
               {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-2573-1772x1027-78.jpg",
                 "contentAlign": "right",
+                "overlay": false,
                 "showTitle": false,
                 "title": "Slide 1",
                 "showText": false,
