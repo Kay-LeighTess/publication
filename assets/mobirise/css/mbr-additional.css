@@ -21,11 +21,12 @@
   font-family: 'Raleway', sans-serif;
   font-size: 36px;
   text-align: right;
+  color: #ffffff;
 }
 #header1-1 P {
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
-  color: #7c706b;
+  color: #9c9c9c;
   text-align: right;
 }
 #header1-1 .btn {
@@ -34,8 +35,8 @@
 #footer1-2 P {
   font-family: 'Raleway', sans-serif;
   text-align: left;
+  color: #ffffff;
 }
-
 
 
 
@@ -86,11 +87,6 @@
 #gallery2-11 SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
-}
-#header3-19 H3 {
-  font-family: 'Raleway', sans-serif;
-  color: #252525;
-  text-align: center;
 }
 #contacts1-8 UL {
   color: #ffffff;
