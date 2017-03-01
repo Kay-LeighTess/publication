@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -35,9 +35,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#cccccc"
             },
-            ".mbr-navbar__section": {
-              "background": "#cccccc"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -51,7 +49,7 @@
           "_params": {
             "color": "#cccccc",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": true,
             "logo": false,
@@ -78,7 +76,7 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "36px",
-              "text-align": "right",
+              "text-align": "left",
               "color": "#ffffff"
             },
             "P": {
@@ -113,7 +111,7 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Kay-Leigh &nbsp;Tessenaere<br>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Kay-Leigh &nbsp;Tessenaere<br>",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Artwork</a>"
         },
@@ -153,7 +151,7 @@
             ".btn": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_anchor": "buttons1-9",
@@ -167,9 +165,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#cccccc"
             },
-            ".mbr-navbar__section": {
-              "background": "#cccccc"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -184,7 +180,7 @@
           "_params": {
             "color": "#cccccc",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": true,
             "logo": false,
@@ -1100,9 +1096,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#cccccc"
             },
-            ".mbr-navbar__section": {
-              "background": "#cccccc"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -1120,7 +1114,7 @@
           "_params": {
             "color": "#cccccc",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": true,
             "logo": false,
