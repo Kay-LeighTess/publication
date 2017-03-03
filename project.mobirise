@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -150,14 +150,6 @@
         "meta_descr": "sculpture, clay, portraits, head, ceramics"
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-c",
-          "text": "I'm student at LUCA School of Arts in Ghent, Belgium. I study sculpture and I'm very interested in figurative artwork. My works are mostly made with clay, focusing on the bust and body. Afterwards with plaster, ceramics, metal, cast stone, ...<div>My drawings and paintings are more like studies and sketches of what I see and feel.</div><div> </div><div>How you portray a person's head or body is what keeps me busy. What is happening on the inside and how do you interpret this in your art? How many emotions can you show?</div><div>You just show the outside, the inside or is it your personal emotions as artist that are automatically shown because you made it with your own hands.</div><div> </div><div>A sculpture or just a chunk of clay. What do you think?</div><div><br></div>"
-        },
         {
           "_name": "buttons1",
           "_styles": {
