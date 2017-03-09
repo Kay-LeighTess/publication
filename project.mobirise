@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -1056,7 +1056,7 @@
           ],
           "_name": "header3",
           "_anchor": "header3-n",
-          "title": "Full lenght portrait",
+          "title": "Full length portrait",
           "_params": {
             "showMeta": true
           },
