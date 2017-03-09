@@ -20,7 +20,7 @@
 #header1-1 H1 {
   font-family: 'Raleway', sans-serif;
   font-size: 36px;
-  text-align: left;
+  text-align: right;
   color: #ffffff;
 }
 #header1-1 P {
@@ -42,6 +42,16 @@
 
 
 
+
+
+
+
+
+
+
+#content1-d DIV {
+  font-family: 'Raleway', sans-serif;
+}
 #buttons1-9 .btn {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
@@ -64,27 +74,41 @@
   text-align: center;
   font-size: 30px;
 }
+#header3-17 SPAN {
+  color: #b8312f;
+}
+#header3-m H3 {
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-m P {
+  font-family: 'Raleway', sans-serif;
+}
 #gallery2-11 SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
 }
-#msg-box2-b .mbr-header .mbr-header__text {
-  color: #252525;
-}
-#msg-box2-b .mbr-article {
-  color: #252525;
-}
-#msg-box2-3 .mbr-header .mbr-header__text {
-  color: #252525;
+#header3-g H3 {
+  font-size: 22px;
   font-family: 'Raleway', sans-serif;
-  text-align: center;
+  text-align: left;
 }
-#msg-box2-3 .mbr-article {
-  color: #252525;
+#header3-g P {
+  text-align: left;
 }
-#msg-box2-3 .mbr-header .mbr-header__text P {
-  font-size: 20px;
-  text-align: right;
+#header3-j H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+#header3-j P {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-n H3 {
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-n P {
+  font-family: 'Raleway', sans-serif;
 }
 #contacts1-8 UL {
   color: #ffffff;
@@ -95,6 +119,7 @@
 #contacts1-8 STRONG {
   color: #c1c1c1;
 }
+
 
 
 
@@ -121,8 +146,11 @@
 }
 #slider2-10 H1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 32px;
+  font-size: 22px;
   text-align: center;
+}
+#header3-o P {
+  font-family: 'Raleway', sans-serif;
 }
 #contacts1-8 UL {
   color: #ffffff;
