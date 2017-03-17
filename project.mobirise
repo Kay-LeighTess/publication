@@ -490,9 +490,9 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x3000.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/img-83-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-83-2000x3000.jpg",
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -630,7 +630,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-82-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-82-2000x3000.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
