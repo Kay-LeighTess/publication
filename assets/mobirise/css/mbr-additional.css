@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -15,27 +17,28 @@
   color: #ffffff;
 }
 #menu-0 .mbr-navbar__items a {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
 }
 #menu-0 .mbr-brand__name a {
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #header1-1 H1 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
-  text-align: right;
+  font-family: 'Droid Serif', serif;
+  font-size: 30px;
+  text-align: center;
   color: #ffffff;
 }
 #header1-1 P {
   font-family: 'Raleway', sans-serif;
-  font-size: 17px;
+  font-size: 30px;
   color: #9c9c9c;
-  text-align: right;
+  text-align: center;
 }
 #header1-1 .btn {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
+  font-size: 15px;
 }
 #footer1-2 P {
   font-family: 'Raleway', sans-serif;
@@ -55,13 +58,17 @@
 
 
 
+
+
+
+
 #content1-d DIV {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 15px;
 }
 #buttons1-9 .btn {
-  font-family: 'Raleway', sans-serif;
-  font-size: 17px;
+  font-family: 'Droid Serif', serif;
+  font-size: 20px;
 }
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -73,12 +80,12 @@
   color: #ffffff;
 }
 #menu-0 .mbr-navbar__items a {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
 }
 #menu-0 .mbr-brand__name a {
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #header3-17 H3 {
   font-family: 'Raleway', sans-serif;
@@ -87,49 +94,60 @@
 }
 #header3-17 SPAN {
   color: #b8312f;
+  font-family: 'Droid Serif', serif;
 }
 #header3-m H3 {
-  font-size: 22px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
 }
 #header3-m P {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
+  font-size: 12px;
 }
 #gallery2-11 SMALL {
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
 }
 #header3-g H3 {
-  font-size: 22px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
   text-align: left;
 }
 #header3-g P {
   text-align: left;
+  font-size: 12px;
+  font-family: 'Droid Serif', serif;
 }
 #header3-j H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
 }
 #header3-j P {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
+  font-size: 12px;
 }
 #header3-n H3 {
-  font-size: 22px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
 }
 #header3-n P {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
+  font-size: 12px;
 }
 #contacts1-8 UL {
   color: #ffffff;
 }
 #contacts1-8 P {
   color: #c1c1c1;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 12px;
 }
 #contacts1-8 STRONG {
   color: #c1c1c1;
+  font-family: 'Oxygen', sans-serif;
 }
+
+
 
 
 
@@ -151,7 +169,7 @@
   font-family: 'Raleway', sans-serif;
 }
 #header3-15 H3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Serif', serif;
   color: #252525;
   text-align: center;
 }
@@ -168,7 +186,10 @@
 }
 #contacts1-8 P {
   color: #c1c1c1;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 12px;
 }
 #contacts1-8 STRONG {
   color: #c1c1c1;
+  font-family: 'Oxygen', sans-serif;
 }

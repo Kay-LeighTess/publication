@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -42,14 +42,14 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "20px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "15px"
             },
             ".mbr-brand__name a": {
               "font-size": "15px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_anchor": "menu-0",
@@ -72,7 +72,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kay-Leigh Tessenaere</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">CONTACT<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">Nederlands</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">English</a></li>   ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">CONTACT<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#content1-d\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">NEDERLANDS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ENGLISH</a></li>   ",
           "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#header3-17\" data-toolbar=\"-mbrBtnMove\">Sculpture</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Drawings</a></li>"
         },
         {
@@ -80,29 +80,30 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             "H1": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "36px",
-              "text-align": "right",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "30px",
+              "text-align": "center",
               "color": "#ffffff"
             },
             "P": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px",
+              "font-size": "30px",
               "color": "#9c9c9c",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "15px"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0164-3456x5184-0.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img.tiff",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -114,12 +115,12 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "showArrow": false
           },
           "title": "&nbsp;Kay-Leigh Tessenaere<br>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp;",
+          "text": "&nbsp; &nbsp;&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Artwork</a>"
         },
         {
@@ -162,8 +163,8 @@
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "15px"
             }
           },
@@ -174,9 +175,9 @@
           "_name": "buttons1",
           "_styles": {
             ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "20px"
             }
           },
           "_anchor": "buttons1-9",
@@ -195,14 +196,14 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "20px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "15px"
             },
             ".mbr-brand__name a": {
               "font-size": "15px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_name": "menu",
@@ -226,7 +227,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kay-Leigh Tessenaere</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">CONTACT<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">Nederlands</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">English</a></li>   ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">CONTACT<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#content1-d\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">NEDERLANDS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ENGLISH</a></li>   ",
           "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#header3-17\" data-toolbar=\"-mbrBtnMove\">Sculpture</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Drawings</a></li>"
         },
         {
@@ -241,7 +242,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-30.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": false,
@@ -253,7 +254,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-31.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -264,7 +265,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-32.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -275,7 +276,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-12-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-33.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -286,7 +287,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-34.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -297,7 +298,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-35.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -308,106 +309,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-13-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-7-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-8-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1332.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-44.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -418,7 +320,106 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-46.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-45.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-36.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-37.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-38.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-39.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-40.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-41.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-42.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-43.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -443,7 +444,9 @@
               "font-size": "30px"
             },
             "SPAN": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_anchor": "header3-17",
@@ -460,13 +463,14 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "12px"
             }
           },
           "_anchor": "header3-m",
@@ -516,48 +520,48 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-4.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7-2000x3000.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-11-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-12-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-12-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-13-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-13-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-11.jpg",
                 "active": false
               },
               {
@@ -568,69 +572,69 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-16-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-12-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-12.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-17-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-17-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-13-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-13.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-18-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-18-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-14-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-14.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-19-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-19-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-15.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-16.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-77-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-77-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-18-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-18.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-78-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-78-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-19-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-19.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-79-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-79-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-80-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-80-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-21-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-21.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-81-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-81-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-22-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-22.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-82-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-82-2000x3000.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/img-23-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-23.jpg",
+                "active": true
               }
             ],
             "showText": false,
@@ -648,13 +652,16 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "12px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_anchor": "header3-g",
@@ -675,38 +682,50 @@
             "images": [
               {
                 "caption": "Ceramics, 2016",
-                "thumb": "@PROJECT_PATH@/assets/images/img-21-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-21-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-24-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-24.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-22-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-25-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-25.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-23-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-23-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-26-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-26.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-24-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-24-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-27-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-27.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-28-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-28.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-25-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-25-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-91-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-90-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-90.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-92-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-92.jpg",
                 "active": true
               }
             ],
@@ -726,13 +745,14 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "20px"
             },
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "12px"
             }
           },
           "_anchor": "header3-j",
@@ -753,303 +773,255 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-26-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-26-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-47-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-47.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-27-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-27-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-48-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-48.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-28-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-28-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-49-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-49.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-29-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-29-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-50-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-50.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-30-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-30-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-51-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-51.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-31-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-31-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-52-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-52.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-32-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-32-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-53-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-53.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-33-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-33-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-54-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-54.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-34-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-34-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-55-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-55.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-35-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-35-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-56-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-56.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-36-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-36-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-57-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-57.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-37-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-58-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-58.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-38-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-38-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-59-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-59.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-39-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-39-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-60-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-60.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-40-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-40-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-61-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-61.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-41-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-41-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-62-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-62.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-42-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-42-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-63-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-63.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-43-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-43-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-64-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-64.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-44-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-44-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-65-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-65.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-45-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-45-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-66-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-66.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-46-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-46-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-67-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-67.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-47-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-47-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-68-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-68.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-48-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-69-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-69.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-49-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-70-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-70.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-50-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-71-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-71.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-51-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-72-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-72.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-52-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-73-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-73.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-53-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-53-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-74-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-74.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-54-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-75-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-75.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-55-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-76-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-76.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-56-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-77-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-77.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-57-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-78-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-78.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-58-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-86-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-86.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-59-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-87-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-87.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-60-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-88-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-88.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-61-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-61-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-89-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-89.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-62-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-62-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-79-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-79.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-63-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-63-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-80-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-80.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-64-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-64-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-81-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-81.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-65-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-65-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-82-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-82.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-66-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-66-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-84-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-84.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-67-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-67-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-68-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-68-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-69-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-69-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-70-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-70-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-71-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-71-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-72-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-72-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-73-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-73-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-83-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-83.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-75-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-75-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-76-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-76-2000x3000.jpg",
-                "active": false
               }
             ],
             "showText": false,
@@ -1068,13 +1040,14 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "12px"
             }
           },
           "_anchor": "header3-n",
@@ -1095,51 +1068,51 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1181x1772-1181x1772-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-1181x1772-1181x1772.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/11-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/10-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10-2000x3000.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/12-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-2000x3000.jpg",
-                "active": false
               }
             ],
             "showText": false,
@@ -1158,10 +1131,15 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "12px"
             },
             "STRONG": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "contacts1-8",
@@ -1190,7 +1168,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
+          "text2": "<strong>CONTACT</strong><br><br>\nEmail: <br>kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
@@ -1252,8 +1230,8 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "color": "#252525",
               "text-align": "center"
             }
@@ -1281,8 +1259,8 @@
             "autoplay": true,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mg-2504-1772x1181-96.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mg.jpg",
                 "contentAlign": "left",
                 "overlay": false,
                 "showTitle": true,
@@ -1294,7 +1272,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2505-1772x1181-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1305,7 +1283,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2507-1772x1181-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1316,7 +1294,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2509-1772x1181-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-3.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1327,7 +1305,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2515-1772x1181-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1338,7 +1316,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2517-1772x1181-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-5.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1349,7 +1327,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2529-1772x1181-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-6.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1360,7 +1338,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2533-1772x1181-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-7.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1371,7 +1349,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-2534-1772x1181-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-8.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1382,7 +1360,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2523-1772x1181-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1393,7 +1371,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2535-1772x1181-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1404,7 +1382,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2537-1772x1181-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-96.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1415,7 +1393,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2539-1772x1181-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-97.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1426,7 +1404,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2542-1772x1181-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-98.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1437,7 +1415,18 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2555-1772x1181-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-99.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-100.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1448,29 +1437,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2557-1772x1181-46.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2558-1772x1181-3.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2560-1772x1181-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-101.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -1510,123 +1477,123 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2511-1181x1772-41-1181x1772-20.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2511-1181x1772-41.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-10.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-13.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-14-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-14.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-15-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-15.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-102-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-102.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-103-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-103.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-104-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-104.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-105-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-105.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-106-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-106.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-107-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-107.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-108-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-108.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-109-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-109.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-110-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-110.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-111-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-111.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-112-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-112.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-113-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-113.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-114-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-114.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2518-1181x1772-6-1181x1772-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2518-1181x1772-6.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2512-1181x1772-84-1181x1772-6.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2512-1181x1772-84.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2521-1181x1772-63-1181x1772-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2521-1181x1772-63.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2528-1181x1772-85-1181x1772-34.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2528-1181x1772-85.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2531-1181x1772-19-1181x1772-69.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2531-1181x1772-19.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2530-1181x1772-10-1181x1772-84.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2530-1181x1772-10.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2524-1181x1772-81-1181x1772-33.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2524-1181x1772-81.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2525-1181x1772-18-1181x1772-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2525-1181x1772-18.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2527-1181x1772-31-1181x1772-4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2527-1181x1772-31.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2541-1181x1772-33-1181x1772-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2541-1181x1772-33.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2544-1181x1772-98-1181x1772-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2544-1181x1772-98.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2548-1181x1772-31-1181x1772-9.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2548-1181x1772-31.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2550-1181x1772-40-1181x1772-84.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2550-1181x1772-40.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2549-1181x1772-78-1181x1772-69.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2549-1181x1772-78.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2553-1181x1772-30-1181x1772-20.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2553-1181x1772-30.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2566-1181x1772-51-1181x1772-59.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2566-1181x1772-51.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2567-1181x1772-6-1181x1772-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2567-1181x1772-6.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2568-1181x1772-75-1181x1772-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2568-1181x1772-75.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2569-1181x1772-62-1181x1772-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2569-1181x1772-62.jpg",
-                "active": false
               }
             ],
             "showText": false,
@@ -1646,8 +1613,8 @@
             "paddingBottom": "2",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-2573-1772x1027-78.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-115.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "showTitle": false,
@@ -1659,7 +1626,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2575-1772x1225-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-116.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1670,7 +1637,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2582-1772x1242-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-117.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": false,
@@ -1681,8 +1648,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/naakt-model-1772x1185-70.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/naakt-model.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": false,
@@ -1707,10 +1674,15 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "12px"
             },
             "STRONG": {
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "contacts1-8",
@@ -1739,7 +1711,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong>CONTACT</strong><br><br>\nEmail: kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
+          "text2": "<strong>CONTACT</strong><br><br>\nEmail: <br>kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
