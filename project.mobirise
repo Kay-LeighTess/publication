@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -558,8 +558,44 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mg-78.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mg-79.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mg-80.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mg-81.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": false,
@@ -619,7 +655,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "2016"
+          "meta": "2016-2017"
         },
         {
           "_inherit": "gallery1",
@@ -775,7 +811,55 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-23-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-23.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-82-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-82.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-83-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-84-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-84.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-87-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-87.jpg",
                 "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-86-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-86.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-88-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-88.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-89-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-89.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-90-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-90.jpg",
+                "active": false
               }
             ],
             "showText": false,
@@ -855,7 +939,7 @@
             "showText": false,
             "bgColor": "#ffffff",
             "fullWidth": false,
-            "noGutter": true,
+            "noGutter": false,
             "showBullets": true
           },
           "_anchor": "gallery1-1",
@@ -1107,9 +1191,9 @@
               }
             ],
             "showText": false,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "fullWidth": false,
-            "noGutter": true,
+            "noGutter": false,
             "showBullets": true
           },
           "_anchor": "gallery1-p",
@@ -1476,7 +1560,7 @@
             "showText": false,
             "bgColor": "#ffffff",
             "fullWidth": false,
-            "noGutter": true,
+            "noGutter": false,
             "showBullets": true
           },
           "_anchor": "gallery1-7",
