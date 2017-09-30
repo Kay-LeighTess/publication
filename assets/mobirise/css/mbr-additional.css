@@ -151,6 +151,11 @@
 
 
 
+
+
+
+
+
 #ext_menu-16 .mbr-brand__name {
   font-size: 16px;
 }
@@ -171,13 +176,35 @@
   color: #252525;
   text-align: center;
 }
+#buttons1-x .btn {
+  font-family: 'Raleway', sans-serif;
+}
+#slider2-s P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  text-align: right;
+}
+#content1-10 DIV {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
 #slider2-10 H1 {
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
-  text-align: center;
+  text-align: left;
+}
+#slider2-10 P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  text-align: left;
 }
 #header3-o P {
   font-family: 'Raleway', sans-serif;
+}
+#slider-13 P {
+  font-family: 'Raleway', sans-serif;
+  text-align: right;
+  font-size: 16px;
 }
 #contacts1-8 UL {
   color: #ffffff;
