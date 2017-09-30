@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -227,6 +227,18 @@
             "slides": [
               {
                 "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jury.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Contrast and diversity, old and new, perishable and imperishable are elements that are  important in my work. Giving an object a new function or meaning, by placing it in a  different context. I use worn out closets and tables with history as a pedestal. The different layers and traces of the past. The atmosphere and vibes of the atelier and studio, the processes of making and where new things arise. <br>The pedestals come together with the portraits, they become one work, together they are a new sculpture.  The individual gets a new meaning in the first place , I think it’s important to appreciate that person as an individual and to look at the uniqueness of everyone. Which can be used as an inspiration source but by combining it with the cabinets and placing them in a different way they get a new meaning. <br>The different layers of history in the pedestals, are recognizable in the glazes of the ceramic sculptures . The layeredness, the colors , the light that scatters on the ceramic base, accentuates the surface, touch and characteristics of the sculpture.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-30.jpg",
                 "contentAlign": "center",
                 "overlay": false,
@@ -238,7 +250,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-31.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
@@ -604,24 +616,20 @@
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/jury.jpg",
-                "contentAlign": "center",
-                "overlay": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "showBullets": true
           },
           "_anchor": "slider2-4",
-          "articleLayout": true
+          "articleLayout": true,
+          "_styles": {
+            "P": {
+              "font-size": "13px",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_name": "header3",
@@ -1819,7 +1827,7 @@
                 "overlay": false,
                 "showTitle": false,
                 "title": "Slide 1",
-                "showText": true,
+                "showText": false,
                 "text": "2016-2017",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
