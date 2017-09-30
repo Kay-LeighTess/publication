@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -222,6 +222,14 @@
             "Theme"
           ],
           "_name": "slider2",
+          "_styles": {
+            "P": {
+              "font-size": "13px",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "slides": [
@@ -621,15 +629,7 @@
             "showBullets": true
           },
           "_anchor": "slider2-4",
-          "articleLayout": true,
-          "_styles": {
-            "P": {
-              "font-size": "13px",
-              "text-align": "left",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "articleLayout": true
         },
         {
           "_name": "header3",
@@ -1801,14 +1801,14 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-x",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page2.html#slider2-10\" data-toolbar=\"-mbrBtnMove\">2015-2016</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html#slider2-s\" data-toolbar=\"-mbrBtnMove\">2016-2017</a>",
           "_styles": {
             ".btn": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
-          }
+          },
+          "_anchor": "buttons1-x",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page2.html#slider2-10\" data-toolbar=\"-mbrBtnMove\">2015-2016</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html#slider2-s\" data-toolbar=\"-mbrBtnMove\">2016-2017</a>"
         },
         {
           "_inherit": "slider",
@@ -1817,6 +1817,14 @@
             "Theme"
           ],
           "_name": "slider2",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          },
           "_params": {
             "autoplay": true,
             "slides": [
@@ -1947,30 +1955,22 @@
             "showBullets": true
           },
           "_anchor": "slider2-s",
-          "articleLayout": true,
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "14px",
-              "text-align": "right"
-            }
-          }
+          "articleLayout": true
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-10",
-          "text": "2016-2017",
           "_styles": {
             "DIV": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "content1-10",
+          "text": "<i>2016-2017</i>"
         },
         {
           "_tags": [
@@ -2326,7 +2326,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "2015-2016"
+          "meta": "<span style=\"font-style: normal;\">2015-2016</span>"
         },
         {
           "_inherit": "gallery1",
@@ -2465,6 +2465,14 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right",
+              "font-size": "16px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "2",
@@ -2523,15 +2531,7 @@
             "showBullets": true
           },
           "_anchor": "slider-13",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "right",
-              "font-size": "16px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_name": "contacts1",
@@ -2579,30 +2579,6 @@
           "text1": "<br><br>",
           "text2": "<strong>CONTACT</strong><br><br>\nEmail: <br>kayleightessenaere@gmail.com<br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><br><br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-r",
-          "_params": {
-            "outside": false,
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     }
